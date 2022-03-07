@@ -8,7 +8,8 @@ function Header() {
             Meme Genrator
         </div>
         <div>
-          <a> Downloads</a>     
+          <a href="/images/myw3schoolsimage.jpg" download="w3logo">
+Downloads</a>
         </div>
     </div>
   )
